@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahmetkaankara
 - 👀 I’m interested in Game Development,Machine Learning
 - 🌱 I’m currently learning C,C#,Python
-- 💞️ I’m looking to collaborate on C#
-- 📫 How to reach me ahmetkaan.k1907@gmail.com
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me ahmetkaan.kara29@gmail.com
 
 <!---
 ahmetkaankara/ahmetkaankara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
