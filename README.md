@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmetkaankara
-- 👀 I’m interested in Game Development,Machine Learning
-- 🌱 I’m currently learning C,C#,Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in IOS Development
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on Swift
 - 📫 How to reach me ahmetkaan.kara29@gmail.com
 
 <!---
